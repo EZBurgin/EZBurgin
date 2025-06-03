@@ -35,12 +35,16 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/eduardo-burgin" >
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /> 
-  </a> <br/>
+  </a>
+  <br/>
+  <br/>
   <a href="https://www.instagram.com/eduardohenriqueburgin/" >
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a> <br/>
-  <p>eduardozanderburgin@gmail.com</p>
+  </a> 
+  <br/>
+  <br/>
   <a href="mailto:eduardozanderburgin@gmail.com" >
+    <p>eduardozanderburgin@gmail.com</p>
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>  
 </div>
