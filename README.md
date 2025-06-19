@@ -28,7 +28,7 @@
 
 ###
 
-<h2 align="left">📫 Como me encontra</h2>
+<h2 align="left">📫 Como me encontrar</h2>
 
 ###
 
